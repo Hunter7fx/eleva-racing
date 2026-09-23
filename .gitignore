@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.next-stale-*/
+*.zip
+tsconfig.tsbuildinfo
+.env
+.env.*
+!.env.example
+
